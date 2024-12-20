@@ -220,6 +220,7 @@
       "minecraft:spider": "2024-12-18 20:26:08 +0000",
       "minecraft:creeper": "2024-12-18 08:48:29 +0000",
       "minecraft:slime": "2024-12-18 22:04:56 +0000",
+      "minecraft:husk": "2024-12-20 20:57:46 +0000",
       "minecraft:zombie": "2024-12-15 09:00:32 +0000",
       "minecraft:zombie_villager": "2024-12-18 21:02:33 +0000"
     },
@@ -811,15 +812,39 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-20 20:50:56 +0000"
+    },
+    "done": true
+  },
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2024-12-20 20:07:57 +0000"
     },
     "done": true
   },
+  "spelunkery:recipes/raw_copper_nugget": {
+    "criteria": {
+      "has_item": "2024-12-20 20:55:44 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:good_demoman": {
     "criteria": {
       "good_demoman_0": "2024-12-20 20:23:25 +0000"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2024-12-20 20:55:43 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2024-12-20 20:55:31 +0000"
     },
     "done": true
   },
