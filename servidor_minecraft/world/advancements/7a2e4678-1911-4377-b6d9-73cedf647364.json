@@ -1665,6 +1665,13 @@
     },
     "done": true
   },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "orange": "2024-12-20 21:27:48 +0000",
+      "yellow": "2024-12-20 21:28:43 +0000"
+    },
+    "done": false
+  },
   "mowziesmobs:kill_umvuthi": {
     "criteria": {
       "barako": "2024-12-20 20:16:05 +0000"
