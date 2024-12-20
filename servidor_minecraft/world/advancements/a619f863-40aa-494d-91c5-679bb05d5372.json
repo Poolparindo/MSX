@@ -63,10 +63,15 @@
     "criteria": {
       "minecraft:sparse_jungle": "2024-12-15 09:14:44 +0000",
       "minecraft:river": "2024-12-15 08:59:36 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-20 05:29:58 +0000",
+      "minecraft:stony_shore": "2024-12-20 08:13:09 +0000",
+      "minecraft:forest": "2024-12-20 04:40:48 +0000",
       "minecraft:desert": "2024-12-18 08:23:55 +0000",
       "minecraft:jungle": "2024-12-18 22:32:33 +0000",
+      "minecraft:warm_ocean": "2024-12-20 05:08:44 +0000",
       "minecraft:savanna": "2024-12-15 08:46:37 +0000",
-      "minecraft:plains": "2024-12-15 09:02:05 +0000"
+      "minecraft:plains": "2024-12-15 09:02:05 +0000",
+      "autumnity:autumnity:pumpkin_fields": "2024-12-20 08:13:03 +0000"
     },
     "done": false
   },
@@ -102,24 +107,40 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-20 04:59:41 +0000",
       "beef": "2024-12-15 09:01:25 +0000",
+      "baked_potato": "2024-12-20 06:17:09 +0000",
       "porkchop": "2024-12-15 09:01:20 +0000",
+      "upgrade_aquatic:mulberry_jam_bottle": "2024-12-20 05:31:53 +0000",
+      "cooked_chicken": "2024-12-20 05:07:54 +0000",
       "cooked_mutton": "2024-12-15 09:10:39 +0000",
       "apple": "2024-12-18 08:07:05 +0000",
       "cooked_cod": "2024-12-18 23:55:18 +0000",
       "bread": "2024-12-15 08:49:28 +0000",
       "melon_slice": "2024-12-18 07:19:44 +0000",
+      "golden_carrot": "2024-12-20 06:35:38 +0000",
+      "cooked_rabbit": "2024-12-20 04:44:36 +0000",
       "carrot": "2024-12-18 08:16:52 +0000"
     },
     "done": false
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "mauve_hills": "2024-12-20 08:11:11 +0000",
       "ancient_delta": "2024-12-18 22:09:35 +0000",
+      "marsh": "2024-12-20 06:19:07 +0000",
+      "willow_forest": "2024-12-20 08:12:55 +0000",
+      "barley_fields": "2024-12-20 05:18:36 +0000",
+      "rocky_reef": "2024-12-20 05:07:45 +0000",
+      "grassy_beach": "2024-12-20 05:09:29 +0000",
       "rocky_meadow": "2024-12-15 08:51:01 +0000",
+      "flower_fields": "2024-12-20 08:15:55 +0000",
       "tropical_river": "2024-12-18 22:04:07 +0000",
+      "magnolia_highlands": "2024-12-20 06:25:30 +0000",
       "outback": "2024-12-18 09:00:24 +0000",
+      "deciduous_forest": "2024-12-20 05:18:57 +0000",
       "bamboo_forest": "2024-12-18 08:05:53 +0000",
+      "saguaro_desert": "2024-12-20 05:07:20 +0000",
       "prairie": "2024-12-15 08:54:58 +0000",
       "grassland": "2024-12-18 07:50:15 +0000",
       "redwoods": "2024-12-18 21:41:36 +0000",
@@ -129,10 +150,20 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "mauve_hills": "2024-12-20 08:11:11 +0000",
+      "marsh": "2024-12-20 06:19:07 +0000",
+      "willow_forest": "2024-12-20 08:12:55 +0000",
+      "barley_fields": "2024-12-20 05:18:36 +0000",
+      "rocky_reef": "2024-12-20 05:07:45 +0000",
+      "grassy_beach": "2024-12-20 05:09:29 +0000",
       "rocky_meadow": "2024-12-15 08:51:01 +0000",
+      "flower_fields": "2024-12-20 08:15:55 +0000",
       "tropical_river": "2024-12-18 22:04:07 +0000",
+      "magnolia_highlands": "2024-12-20 06:25:30 +0000",
       "outback": "2024-12-18 09:00:24 +0000",
+      "deciduous_forest": "2024-12-20 05:18:57 +0000",
       "bamboo_forest": "2024-12-18 08:05:53 +0000",
+      "saguaro_desert": "2024-12-20 05:07:20 +0000",
       "prairie": "2024-12-15 08:54:58 +0000",
       "grassland": "2024-12-18 07:50:15 +0000",
       "redwoods": "2024-12-18 21:41:36 +0000"
@@ -153,7 +184,8 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
-      "mauve_log": "2024-12-15 08:52:01 +0000"
+      "mauve_log": "2024-12-15 08:52:01 +0000",
+      "small_oak_log": "2024-12-20 05:48:39 +0000"
     },
     "done": false
   },
@@ -364,9 +396,10 @@
   },
   "create:wrench_goggles": {
     "criteria": {
-      "0": "2024-12-18 08:27:23 +0000"
+      "0": "2024-12-18 08:27:23 +0000",
+      "1": "2024-12-20 08:34:25 +0000"
     },
-    "done": false
+    "done": true
   },
   "betterarcheology:fossil_found": {
     "criteria": {
@@ -643,6 +676,138 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2024-12-19 00:33:14 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:loot_vase_broken": {
+    "criteria": {
+      "criteria": "2024-12-20 04:41:23 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2024-12-20 05:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-12-20 05:13:15 +0000"
+    },
+    "done": false
+  },
+  "idas:wizardtower": {
+    "criteria": {
+      "in_wizardtower": "2024-12-20 05:34:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-20 05:45:06 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rough_emerald": {
+    "criteria": {
+      "has_item": "2024-12-20 05:48:39 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:marketstead_village": {
+    "criteria": {
+      "in_marketstead_village": "2024-12-20 06:02:11 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "yellow": "2024-12-20 06:07:25 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2024-12-20 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "fish_stew": "2024-12-20 06:09:13 +0000"
+    },
+    "done": false
+  },
+  "biomemakeover:biomemakeover/sunken_ruin": {
+    "criteria": {
+      "ruin": "2024-12-20 06:19:27 +0000"
+    },
+    "done": true
+  },
+  "idas:enchantingtower": {
+    "criteria": {
+      "in_enchantingtower": "2024-12-20 06:20:43 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/lightning_bug_bottle": {
+    "criteria": {
+      "lightning_bug_bottle": "2024-12-20 06:30:22 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/gunpowder": {
+    "criteria": {
+      "has_item": "2024-12-20 06:59:01 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-12-20 07:14:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-20 08:00:09 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:airship_village": {
+    "criteria": {
+      "in_airship_village": "2024-12-20 08:21:44 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-12-20 08:39:32 +0000"
+    },
+    "done": true
+  },
+  "quark:get_diamond_heart": {
+    "criteria": {
+      "get_diamond_heart": "2024-12-20 08:00:09 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2024-12-20 07:59:43 +0000"
+    },
+    "done": true
+  },
+  "rubinated_nether:custom/obtain_ruby": {
+    "criteria": {
+      "obtain_ruby": "2024-12-20 07:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-20 07:56:38 +0000"
     },
     "done": true
   },

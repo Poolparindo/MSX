@@ -2,9 +2,7 @@
 	id: "a619f863-40aa-494d-91c5-679bb05d5372"
 	type: "player"
 	player_name: "Diego505_"
-	ranks: {
-		a619f863-40aa-494d-91c5-679bb05d5372: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Diego505_"
 		"ftbteams:description": ""
