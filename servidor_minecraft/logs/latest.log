@@ -15549,3 +15549,5 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [20Dec2024 20:22:34.453] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/2041, l='ServerLevel[world]', x=-961.75, y=78.00, z=1068.52, removed=DISCARDED]
 [20Dec2024 20:22:35.805] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/2041, l='ServerLevel[world]', x=-961.75, y=78.00, z=1068.52, removed=DISCARDED]
 [20Dec2024 20:23:25.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has made the advancement [Good Demoman]
+[20Dec2024 20:48:32.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Myth_Pool: The difficulty has been set to Normal]
+[20Dec2024 20:50:56.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has made the advancement [Alex's Caves]
