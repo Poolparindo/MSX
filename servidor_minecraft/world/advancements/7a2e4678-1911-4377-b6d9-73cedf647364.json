@@ -1635,5 +1635,17 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-20 20:07:33 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "interact": "2024-12-20 20:07:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

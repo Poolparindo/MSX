@@ -769,9 +769,33 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-20 07:56:38 +0000"
+    },
+    "done": true
+  },
+  "rubinated_nether:custom/obtain_ruby": {
+    "criteria": {
+      "obtain_ruby": "2024-12-20 07:59:38 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2024-12-20 07:59:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2024-12-20 08:00:09 +0000"
+    },
+    "done": true
+  },
+  "quark:get_diamond_heart": {
+    "criteria": {
+      "get_diamond_heart": "2024-12-20 08:00:09 +0000"
     },
     "done": true
   },
@@ -787,27 +811,9 @@
     },
     "done": true
   },
-  "quark:get_diamond_heart": {
+  "supplementaries:adventure/way_sign": {
     "criteria": {
-      "get_diamond_heart": "2024-12-20 08:00:09 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:simplyswords": {
-    "criteria": {
-      "requirement": "2024-12-20 07:59:43 +0000"
-    },
-    "done": true
-  },
-  "rubinated_nether:custom/obtain_ruby": {
-    "criteria": {
-      "obtain_ruby": "2024-12-20 07:59:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2024-12-20 07:56:38 +0000"
+      "bastion": "2024-12-20 20:07:57 +0000"
     },
     "done": true
   },
