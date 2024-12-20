@@ -15564,3 +15564,4 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [20Dec2024 21:39:26.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ was slain by Nightmare Stalker
 [20Dec2024 21:39:27.527] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [20Dec2024 21:41:05.252] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/35698, l='ServerLevel[world]', x=-753.35, y=92.00, z=691.61] died, message: 'Farmer was slain by Zombie Bruiser'
+[20Dec2024 22:05:10.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has made the advancement [Lorem Ipsum]
