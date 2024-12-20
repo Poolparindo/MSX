@@ -1647,6 +1647,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2024-12-20 22:17:32 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:guidetothenextworld": {
     "criteria": {
       "guidetothenextworld_0": "2024-12-20 20:57:55 +0000"
@@ -1662,6 +1668,12 @@
   "spelunkery:spelunkery/coal_lump": {
     "criteria": {
       "item": "2024-12-20 20:57:09 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2024-12-20 22:17:05 +0000"
     },
     "done": true
   },

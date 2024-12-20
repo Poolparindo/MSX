@@ -15565,3 +15565,9 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [20Dec2024 21:39:27.527] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [20Dec2024 21:41:05.252] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/35698, l='ServerLevel[world]', x=-753.35, y=92.00, z=691.61] died, message: 'Farmer was slain by Zombie Bruiser'
 [20Dec2024 22:05:10.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has made the advancement [Lorem Ipsum]
+[20Dec2024 22:17:05.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [Lorem Ipsum]
+[20Dec2024 22:17:32.533] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:toxic_caves at -300 -56 1774 in 3s
+[20Dec2024 22:17:32.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3068ms or 61 ticks behind
+[20Dec2024 22:17:32.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [The Journey Begins]
+[20Dec2024 22:21:48.242] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at 1019 -56 1271 in 2s
+[20Dec2024 22:24:24.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has made the advancement [The Journey Begins]

@@ -824,6 +824,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2024-12-20 22:24:24 +0000"
+    },
+    "done": true
+  },
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2024-12-20 20:07:57 +0000"
