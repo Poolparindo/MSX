@@ -15575,3 +15575,6 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [20Dec2024 22:26:14.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2156ms or 43 ticks behind
 [20Dec2024 22:30:06.159] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at 1018 -56 1270 in 2s
 [20Dec2024 22:30:37.380] [Server thread/INFO] [EMI/]: [EMI] Diego505_ deleted 1 cave_map
+[20Dec2024 22:39:07.016] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/2041, l='ServerLevel[world]', x=-961.75, y=78.00, z=1068.52, removed=DISCARDED]
+[20Dec2024 22:40:39.926] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/2041, l='ServerLevel[world]', x=-961.75, y=78.00, z=1068.52, removed=DISCARDED]
+[20Dec2024 22:43:47.266] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/2041, l='ServerLevel[world]', x=-961.75, y=78.00, z=1068.52, removed=DISCARDED]
