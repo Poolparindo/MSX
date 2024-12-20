@@ -15559,3 +15559,8 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [20Dec2024 20:58:48.357] [Worker-Main-4/INFO] [Wilder Wild/]: Wilder Wild's Overworld Surface Rules have been added!
 [20Dec2024 21:05:08.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has made the advancement [Once Upon a Cave]
 [20Dec2024 21:14:25.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has made the advancement [We do a little trolling...]
+[20Dec2024 21:38:45.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool was slain by Nightmare Stalker
+[20Dec2024 21:38:47.686] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Dec2024 21:39:26.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ was slain by Nightmare Stalker
+[20Dec2024 21:39:27.527] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Dec2024 21:41:05.252] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/35698, l='ServerLevel[world]', x=-753.35, y=92.00, z=691.61] died, message: 'Farmer was slain by Zombie Bruiser'
