@@ -15580,3 +15580,22 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [20Dec2024 22:43:47.266] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/2041, l='ServerLevel[world]', x=-961.75, y=78.00, z=1068.52, removed=DISCARDED]
 [20Dec2024 22:51:07.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
 [20Dec2024 22:51:24.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[20Dec2024 22:56:36.459] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Myth_Pool lost connection: Disconnected
+[20Dec2024 22:56:36.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool left the game
+[20Dec2024 22:56:36.464] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Myth_Pool
+[20Dec2024 22:56:38.853] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego505_ lost connection: Disconnected
+[20Dec2024 22:56:38.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ left the game
+[20Dec2024 22:56:38.854] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Diego505_
+[20Dec2024 22:56:47.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[20Dec2024 22:56:47.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Dec2024 22:56:47.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Dec2024 22:56:47.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Dec2024 22:56:47.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20Dec2024 22:56:47.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20Dec2024 22:56:47.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20Dec2024 22:56:47.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Dec2024 22:56:47.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Dec2024 22:56:47.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Dec2024 22:56:47.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20Dec2024 22:56:47.463] [Server thread/INFO] [Framework/]: Unloading server configs...
+[20Dec2024 22:56:47.464] [Server thread/INFO] [Framework/]: Finished unloading server configs
