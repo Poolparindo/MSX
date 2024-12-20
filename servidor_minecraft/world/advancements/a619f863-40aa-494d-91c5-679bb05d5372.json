@@ -812,33 +812,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/root": {
-    "criteria": {
-      "underground_cabin": "2024-12-20 20:50:56 +0000"
-    },
-    "done": true
-  },
-  "spelunkery:recipes/raw_copper": {
-    "criteria": {
-      "has_item": "2024-12-20 21:01:09 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_map": {
-    "criteria": {
-      "cave_map": "2024-12-20 22:24:24 +0000"
-    },
-    "done": true
-  },
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2024-12-20 20:07:57 +0000"
-    },
-    "done": true
-  },
-  "spelunkery:recipes/raw_copper_nugget": {
-    "criteria": {
-      "has_item": "2024-12-20 20:55:44 +0000"
     },
     "done": true
   },
@@ -848,9 +824,33 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-20 20:50:56 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2024-12-20 20:55:31 +0000"
+    },
+    "done": true
+  },
   "quark:mine_toretoise": {
     "criteria": {
       "mine_toretoise": "2024-12-20 20:55:43 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/raw_copper_nugget": {
+    "criteria": {
+      "has_item": "2024-12-20 20:55:44 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/raw_copper": {
+    "criteria": {
+      "has_item": "2024-12-20 21:01:09 +0000"
     },
     "done": true
   },
@@ -860,21 +860,21 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_codex": {
-    "criteria": {
-      "cave_codex": "2024-12-20 22:05:10 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/kangaroo": {
     "criteria": {
       "interact": "2024-12-20 21:14:25 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:the_wind_darkening": {
+  "alexscaves:alexscaves/cave_codex": {
     "criteria": {
-      "the_wind_darkening_0": "2024-12-20 20:55:31 +0000"
+      "cave_codex": "2024-12-20 22:05:10 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2024-12-20 22:24:24 +0000"
     },
     "done": true
   },
