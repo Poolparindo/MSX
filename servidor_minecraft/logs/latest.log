@@ -15571,3 +15571,7 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [20Dec2024 22:17:32.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [The Journey Begins]
 [20Dec2024 22:21:48.242] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at 1019 -56 1271 in 2s
 [20Dec2024 22:24:24.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has made the advancement [The Journey Begins]
+[20Dec2024 22:26:14.337] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:forlorn_hollows at -4182 -56 3277 in 3s
+[20Dec2024 22:26:14.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2156ms or 43 ticks behind
+[20Dec2024 22:30:06.159] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at 1018 -56 1270 in 2s
+[20Dec2024 22:30:37.380] [Server thread/INFO] [EMI/]: [EMI] Diego505_ deleted 1 cave_map
