@@ -818,6 +818,12 @@
     },
     "done": true
   },
+  "spelunkery:recipes/raw_copper": {
+    "criteria": {
+      "has_item": "2024-12-20 21:01:09 +0000"
+    },
+    "done": true
+  },
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2024-12-20 20:07:57 +0000"
@@ -839,6 +845,12 @@
   "quark:mine_toretoise": {
     "criteria": {
       "mine_toretoise": "2024-12-20 20:55:43 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2024-12-20 21:05:08 +0000"
     },
     "done": true
   },

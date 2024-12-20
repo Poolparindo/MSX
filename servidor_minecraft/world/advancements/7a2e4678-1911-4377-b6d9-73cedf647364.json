@@ -1641,6 +1641,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_stripped_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-20 21:07:13 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:guidetothenextworld": {
     "criteria": {
       "guidetothenextworld_0": "2024-12-20 20:57:55 +0000"
