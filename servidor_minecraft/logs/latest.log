@@ -15546,3 +15546,6 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [20Dec2024 20:13:30.302] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/2041, l='ServerLevel[world]', x=-961.75, y=78.00, z=1068.52, removed=DISCARDED]
 [20Dec2024 20:13:34.072] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/2041, l='ServerLevel[world]', x=-961.75, y=78.00, z=1068.52, removed=DISCARDED]
 [20Dec2024 20:16:05.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has completed the challenge [Praise the Sun]
+[20Dec2024 20:22:34.453] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/2041, l='ServerLevel[world]', x=-961.75, y=78.00, z=1068.52, removed=DISCARDED]
+[20Dec2024 20:22:35.805] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/2041, l='ServerLevel[world]', x=-961.75, y=78.00, z=1068.52, removed=DISCARDED]
+[20Dec2024 20:23:25.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has made the advancement [Good Demoman]
