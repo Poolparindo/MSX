@@ -1696,5 +1696,17 @@
     },
     "done": true
   },
+  "betterarcheology:fossil_found": {
+    "criteria": {
+      "betterarcheology:fossil_found": "2024-12-21 01:14:03 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:all_fossils_found": {
+    "criteria": {
+      "betterarcheology:villager_fossil_head": "2024-12-21 01:14:03 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

@@ -167,3 +167,40 @@
 [21Dec2024 01:05:17.598] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a619f863-40aa-494d-91c5-679bb05d5372
 [21Dec2024 01:05:18.597] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a619f863-40aa-494d-91c5-679bb05d5372
 [21Dec2024 01:05:18.598] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Diego505_ (a619f863-40aa-494d-91c5-679bb05d5372) successfully connected to voice chat
+[21Dec2024 01:09:35.785] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/32489, l='ServerLevel[world]', x=-1098.11, y=77.00, z=1213.90, removed=DISCARDED]
+[21Dec2024 01:10:03.588] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/32891, l='ServerLevel[world]', x=-1004.54, y=83.00, z=1322.49, removed=DISCARDED]
+[21Dec2024 01:10:25.587] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/33075, l='ServerLevel[world]', x=-967.81, y=84.00, z=1280.51, removed=DISCARDED]
+[21Dec2024 01:11:03.930] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/33075, l='ServerLevel[world]', x=-967.81, y=84.00, z=1280.51, removed=DISCARDED]
+[21Dec2024 01:11:08.132] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/33473, l='ServerLevel[world]', x=-912.12, y=75.00, z=1188.11, removed=DISCARDED]
+[21Dec2024 01:14:03.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [Ancient Treasure]
+[21Dec2024 01:14:36.622] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego505_ lost connection: Disconnected
+[21Dec2024 01:14:36.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ left the game
+[21Dec2024 01:14:36.624] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Diego505_
+[21Dec2024 01:16:07.346] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Diego505_ is a619f863-40aa-494d-91c5-679bb05d5372
+[21Dec2024 01:16:16.709] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Diego505_[/172.26.198.206:60493] logged in with entity id 36933 at (-613.5138572320595, -54.0, 1112.296057309602)
+[21Dec2024 01:16:16.808] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[21Dec2024 01:16:16.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ joined the game
+[21Dec2024 01:16:16.951] [Server thread/INFO] [Jade/]: Syncing config to Diego505_ (a619f863-40aa-494d-91c5-679bb05d5372)
+[21Dec2024 01:16:19.007] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Diego505_ (18)
+[21Dec2024 01:16:19.008] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Diego505_
+[21Dec2024 01:16:19.008] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[21Dec2024 01:16:19.008] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[21Dec2024 01:16:19.009] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[21Dec2024 01:16:19.009] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[21Dec2024 01:16:19.010] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[21Dec2024 01:16:19.010] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[21Dec2024 01:16:19.010] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[21Dec2024 01:16:19.010] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[21Dec2024 01:16:19.010] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[21Dec2024 01:16:19.010] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[21Dec2024 01:16:19.010] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[21Dec2024 01:16:19.011] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[21Dec2024 01:16:19.011] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[21Dec2024 01:16:19.011] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[21Dec2024 01:16:19.011] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[21Dec2024 01:16:19.011] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[21Dec2024 01:16:19.012] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[21Dec2024 01:16:19.012] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/MSX/servidor_minecraft/bclib-sync (allowDelete=true)
+[21Dec2024 01:16:31.442] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a619f863-40aa-494d-91c5-679bb05d5372
+[21Dec2024 01:16:32.461] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a619f863-40aa-494d-91c5-679bb05d5372
+[21Dec2024 01:16:32.462] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Diego505_ (a619f863-40aa-494d-91c5-679bb05d5372) successfully connected to voice chat
