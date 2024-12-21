@@ -204,3 +204,8 @@
 [21Dec2024 01:16:31.442] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a619f863-40aa-494d-91c5-679bb05d5372
 [21Dec2024 01:16:32.461] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a619f863-40aa-494d-91c5-679bb05d5372
 [21Dec2024 01:16:32.462] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Diego505_ (a619f863-40aa-494d-91c5-679bb05d5372) successfully connected to voice chat
+[21Dec2024 01:21:06.088] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/32489, l='ServerLevel[world]', x=-1098.11, y=77.00, z=1213.90, removed=DISCARDED]
+[21Dec2024 01:21:41.289] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/32489, l='ServerLevel[world]', x=-1098.11, y=77.00, z=1213.90, removed=DISCARDED]
+[21Dec2024 01:21:51.788] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/33075, l='ServerLevel[world]', x=-967.81, y=84.00, z=1280.51, removed=DISCARDED]
+[21Dec2024 01:21:56.638] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/32891, l='ServerLevel[world]', x=-1004.54, y=83.00, z=1322.49, removed=DISCARDED]
+[21Dec2024 01:24:25.185] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/33473, l='ServerLevel[world]', x=-912.12, y=75.00, z=1188.11, removed=DISCARDED]

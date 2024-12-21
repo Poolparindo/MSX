@@ -896,5 +896,17 @@
     },
     "done": true
   },
+  "spelunkery:recipes/rough_cinnabar": {
+    "criteria": {
+      "has_item": "2024-12-21 01:19:28 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rough_cinnabar_shard": {
+    "criteria": {
+      "has_item": "2024-12-21 01:19:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
