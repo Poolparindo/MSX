@@ -913,3 +913,15 @@
 [21Dec2024 05:32:05.488] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98681, l='ServerLevel[world]', x=-579.80, y=82.00, z=903.29, removed=DISCARDED]
 [21Dec2024 05:32:32.571] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98678, l='ServerLevel[world]', x=-579.93, y=82.00, z=905.93, removed=DISCARDED]
 [21Dec2024 05:32:33.139] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98681, l='ServerLevel[world]', x=-579.80, y=82.00, z=903.29, removed=DISCARDED]
+[21Dec2024 05:43:32.038] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Dec2024 05:43:39.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WK4nttz has made the advancement [World of illusion]
+[21Dec2024 05:43:47.868] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Dec2024 05:43:47.868] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Dec2024 05:43:47.869] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Dec2024 05:43:47.869] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Dec2024 05:43:47.870] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Dec2024 05:43:47.870] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Dec2024 05:43:47.876] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[21Dec2024 05:44:26.207] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=113, y=62, z=1036} BlockPos{x=113, y=61, z=1038}
+[21Dec2024 05:44:26.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=113, y=62, z=1036} BlockPos{x=113, y=61, z=1038}
+[21Dec2024 05:44:26.306] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=113, y=62, z=1036} BlockPos{x=113, y=61, z=1038}
