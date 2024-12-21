@@ -721,6 +721,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_vallumraptor": "2024-12-21 06:01:29 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_primordial_caves": {
     "criteria": {
       "discover": "2024-12-21 05:51:24 +0000"
@@ -736,6 +742,12 @@
   "oreganized:story/like_the_romans": {
     "criteria": {
       "has_brain_damage": "2024-12-21 05:51:10 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_grottoceratops": "2024-12-21 06:03:43 +0000"
     },
     "done": true
   },
