@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "spelunkery:recipes/coal": {
+    "criteria": {
+      "has_item": "2024-12-21 05:31:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-21 05:01:29 +0000"
@@ -91,6 +97,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-21 05:34:16 +0000",
       "minecraft:spider": "2024-12-21 05:02:47 +0000",
       "minecraft:zombie": "2024-12-21 05:02:06 +0000"
     },
@@ -305,7 +312,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2024-12-21 04:26:09 +0000",
-      "cooked_mutton": "2024-12-21 04:47:51 +0000"
+      "cooked_mutton": "2024-12-21 04:47:51 +0000",
+      "bread": "2024-12-21 05:29:28 +0000"
     },
     "done": false
   },

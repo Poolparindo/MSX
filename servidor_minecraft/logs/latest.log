@@ -905,3 +905,11 @@
 [21Dec2024 05:24:07.874] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sheylike (d382ed98-6efc-49aa-8f71-3d38ceaa4b33) successfully connected to voice chat
 [21Dec2024 05:24:33.876] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98678, l='ServerLevel[world]', x=-579.93, y=82.00, z=905.93, removed=DISCARDED]
 [21Dec2024 05:24:34.330] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98681, l='ServerLevel[world]', x=-579.80, y=82.00, z=903.29, removed=DISCARDED]
+[21Dec2024 05:31:25.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike was slain by Kangaroo
+[21Dec2024 05:31:55.096] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21Dec2024 05:31:55.116] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98678, l='ServerLevel[world]', x=-579.93, y=82.00, z=905.93, removed=DISCARDED]
+[21Dec2024 05:31:55.116] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98681, l='ServerLevel[world]', x=-579.80, y=82.00, z=903.29, removed=DISCARDED]
+[21Dec2024 05:31:56.060] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98678, l='ServerLevel[world]', x=-579.93, y=82.00, z=905.93, removed=DISCARDED]
+[21Dec2024 05:32:05.488] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98681, l='ServerLevel[world]', x=-579.80, y=82.00, z=903.29, removed=DISCARDED]
+[21Dec2024 05:32:32.571] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98678, l='ServerLevel[world]', x=-579.93, y=82.00, z=905.93, removed=DISCARDED]
+[21Dec2024 05:32:33.139] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98681, l='ServerLevel[world]', x=-579.80, y=82.00, z=903.29, removed=DISCARDED]
