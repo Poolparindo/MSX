@@ -248,3 +248,7 @@
 [21Dec2024 02:17:31.276] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/32891, l='ServerLevel[world]', x=-1004.54, y=83.00, z=1322.49, removed=DISCARDED]
 [21Dec2024 02:17:45.177] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/33075, l='ServerLevel[world]', x=-967.81, y=84.00, z=1280.51, removed=DISCARDED]
 [21Dec2024 02:18:30.524] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/33473, l='ServerLevel[world]', x=-912.12, y=75.00, z=1188.11, removed=DISCARDED]
+[21Dec2024 02:20:49.473] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego505_ lost connection: Disconnected
+[21Dec2024 02:20:49.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ left the game
+[21Dec2024 02:20:49.475] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Diego505_
+[21Dec2024 02:30:50.460] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/32489, l='ServerLevel[world]', x=-1098.11, y=77.00, z=1213.90, removed=DISCARDED]
