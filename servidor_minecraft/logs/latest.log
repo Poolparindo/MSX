@@ -284,3 +284,7 @@
 [21Dec2024 03:16:40.832] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a619f863-40aa-494d-91c5-679bb05d5372
 [21Dec2024 03:16:41.835] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a619f863-40aa-494d-91c5-679bb05d5372
 [21Dec2024 03:16:41.835] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Diego505_ (a619f863-40aa-494d-91c5-679bb05d5372) successfully connected to voice chat
+[21Dec2024 03:27:51.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool was slain by Nightmare Stalker
+[21Dec2024 03:27:52.575] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21Dec2024 03:27:56.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Diego505_> JAJAJAJ
+[21Dec2024 03:28:11.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Diego505_> duerme
