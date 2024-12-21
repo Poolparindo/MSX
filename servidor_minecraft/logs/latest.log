@@ -321,3 +321,45 @@
 [21Dec2024 03:38:02.755] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Diego505_ (a619f863-40aa-494d-91c5-679bb05d5372) successfully connected to voice chat
 [21Dec2024 03:46:39.035] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player WK4nttz is fee174de-f356-40cb-85b6-319be8e7591a
 [21Dec2024 03:46:39.215] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1476099f[id=fee174de-f356-40cb-85b6-319be8e7591a,name=WK4nttz,properties={textures=[com.mojang.authlib.properties.Property@68f5d38c]},legacy=false] (/172.26.58.190:49239) lost connection: Disconnected
+[21Dec2024 04:03:16.125] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player WK4nttz is fee174de-f356-40cb-85b6-319be8e7591a
+[21Dec2024 04:03:25.733] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WK4nttz[/172.26.58.190:51080] logged in with entity id 96847 at (-81.5, 85.0, 172.5)
+[21Dec2024 04:03:25.794] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[21Dec2024 04:03:25.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WK4nttz joined the game
+[21Dec2024 04:03:25.938] [Server thread/INFO] [Jade/]: Syncing config to WK4nttz (fee174de-f356-40cb-85b6-319be8e7591a)
+[21Dec2024 04:03:26.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WK4nttz has made the advancement [Ice and Fire]
+[21Dec2024 04:03:26.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WK4nttz has made the advancement [Integrated Dungeons and Structures]
+[21Dec2024 04:03:28.995] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of WK4nttz (18)
+[21Dec2024 04:03:28.996] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to WK4nttz
+[21Dec2024 04:03:29.039] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[21Dec2024 04:03:29.040] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[21Dec2024 04:03:29.040] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[21Dec2024 04:03:29.040] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[21Dec2024 04:03:29.040] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[21Dec2024 04:03:29.041] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[21Dec2024 04:03:29.041] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[21Dec2024 04:03:29.041] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[21Dec2024 04:03:29.041] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[21Dec2024 04:03:29.041] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[21Dec2024 04:03:29.041] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[21Dec2024 04:03:29.041] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[21Dec2024 04:03:29.041] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[21Dec2024 04:03:29.041] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[21Dec2024 04:03:29.041] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[21Dec2024 04:03:29.042] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[21Dec2024 04:03:29.042] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[21Dec2024 04:03:29.042] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/MSX/servidor_minecraft/bclib-sync (allowDelete=true)
+[21Dec2024 04:03:53.669] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fee174de-f356-40cb-85b6-319be8e7591a
+[21Dec2024 04:03:54.668] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fee174de-f356-40cb-85b6-319be8e7591a
+[21Dec2024 04:03:54.669] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WK4nttz (fee174de-f356-40cb-85b6-319be8e7591a) successfully connected to voice chat
+[21Dec2024 04:05:31.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Diego505_: Teleported WK4nttz to Diego505_]
+[21Dec2024 04:05:31.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WK4nttz has made the advancement [Castle]
+[21Dec2024 04:05:50.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WK4nttz has made the advancement [Hunt and Gather]
+[21Dec2024 04:05:57.873] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98678, l='ServerLevel[world]', x=-579.93, y=82.00, z=905.93, removed=DISCARDED]
+[21Dec2024 04:05:57.873] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98678, l='ServerLevel[world]', x=-579.93, y=82.00, z=905.93, removed=DISCARDED]
+[21Dec2024 04:05:57.874] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98678, l='ServerLevel[world]', x=-579.93, y=82.00, z=905.93, removed=DISCARDED]
+[21Dec2024 04:05:58.421] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98681, l='ServerLevel[world]', x=-579.80, y=82.00, z=903.29, removed=DISCARDED]
+[21Dec2024 04:05:58.421] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98681, l='ServerLevel[world]', x=-579.80, y=82.00, z=903.29, removed=DISCARDED]
+[21Dec2024 04:05:58.421] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98681, l='ServerLevel[world]', x=-579.80, y=82.00, z=903.29, removed=DISCARDED]
+[21Dec2024 04:06:19.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WK4nttz has made the advancement [Suit Up]
+[21Dec2024 04:06:47.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WK4nttz has made the advancement [Isn't It Iron Pick]
+[21Dec2024 04:06:48.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WK4nttz has made the advancement [Stone Age]
