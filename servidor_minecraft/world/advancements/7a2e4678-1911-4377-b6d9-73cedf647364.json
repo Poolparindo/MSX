@@ -388,6 +388,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-15 09:25:01 +0000",
       "minecraft:skeleton": "2024-12-15 09:00:57 +0000",
+      "minecraft:zoglin": "2024-12-21 01:59:28 +0000",
       "minecraft:vindicator": "2024-12-15 10:55:51 +0000",
       "minecraft:spider": "2024-12-15 09:00:48 +0000",
       "minecraft:creeper": "2024-12-15 23:20:23 +0000",
@@ -1707,6 +1708,12 @@
       "betterarcheology:villager_fossil_head": "2024-12-21 01:14:03 +0000"
     },
     "done": false
+  },
+  "idas:wizardtower": {
+    "criteria": {
+      "in_wizardtower": "2024-12-21 01:57:33 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
