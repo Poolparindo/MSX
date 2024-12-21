@@ -84,6 +84,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "mauve_hills": "2024-12-20 08:11:14 +0000",
+      "sparse_rainforest": "2024-12-21 07:33:11 +0000",
       "ancient_delta": "2024-12-18 22:10:28 +0000",
       "willow_forest": "2024-12-20 08:12:52 +0000",
       "grassy_beach": "2024-12-18 07:01:03 +0000",
@@ -92,12 +93,16 @@
       "flower_fields": "2024-12-20 08:15:02 +0000",
       "tropical_river": "2024-12-18 22:04:46 +0000",
       "outback": "2024-12-18 21:58:38 +0000",
+      "joshua_desert": "2024-12-21 07:29:11 +0000",
+      "sparse_redwoods": "2024-12-21 07:32:25 +0000",
       "deciduous_forest": "2024-12-15 10:57:42 +0000",
       "bamboo_forest": "2024-12-18 21:03:50 +0000",
+      "saguaro_desert": "2024-12-21 07:29:07 +0000",
       "temperate_grove": "2024-12-15 23:52:33 +0000",
       "grassland": "2024-12-15 10:56:30 +0000",
       "prairie": "2024-12-15 08:54:56 +0000",
       "redwoods": "2024-12-16 19:58:08 +0000",
+      "rainforest": "2024-12-21 07:29:18 +0000",
       "bioshroom_caves": "2024-12-18 22:10:08 +0000"
     },
     "done": false
@@ -105,18 +110,23 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "mauve_hills": "2024-12-20 08:11:14 +0000",
+      "sparse_rainforest": "2024-12-21 07:33:11 +0000",
       "willow_forest": "2024-12-20 08:12:52 +0000",
       "grassy_beach": "2024-12-18 07:01:03 +0000",
       "rocky_meadow": "2024-12-14 23:45:29 +0000",
       "flower_fields": "2024-12-20 08:15:02 +0000",
       "tropical_river": "2024-12-18 22:04:46 +0000",
       "outback": "2024-12-18 21:58:38 +0000",
+      "joshua_desert": "2024-12-21 07:29:11 +0000",
+      "sparse_redwoods": "2024-12-21 07:32:25 +0000",
       "deciduous_forest": "2024-12-15 10:57:42 +0000",
       "bamboo_forest": "2024-12-18 21:03:50 +0000",
+      "saguaro_desert": "2024-12-21 07:29:07 +0000",
       "temperate_grove": "2024-12-15 23:52:33 +0000",
       "grassland": "2024-12-15 10:56:30 +0000",
       "prairie": "2024-12-15 08:54:56 +0000",
-      "redwoods": "2024-12-16 19:58:08 +0000"
+      "redwoods": "2024-12-16 19:58:08 +0000",
+      "rainforest": "2024-12-21 07:29:18 +0000"
     },
     "done": false
   },
@@ -1769,6 +1779,12 @@
   "alexscaves:alexscaves/tame_subterranodon": {
     "criteria": {
       "killed": "2024-12-21 06:45:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:from_the_tree_tops": {
+    "criteria": {
+      "kapok_vines": "2024-12-21 07:29:50 +0000"
     },
     "done": true
   },

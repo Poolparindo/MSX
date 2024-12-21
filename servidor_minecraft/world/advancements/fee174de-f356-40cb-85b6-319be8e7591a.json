@@ -86,7 +86,9 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "sparse_rainforest": "2024-12-21 07:30:03 +0000",
       "rocky_meadow": "2024-12-21 04:40:59 +0000",
+      "sparse_redwoods": "2024-12-21 07:30:02 +0000",
       "deciduous_forest": "2024-12-21 07:24:24 +0000",
       "bamboo_forest": "2024-12-21 05:07:32 +0000",
       "grassland": "2024-12-21 04:26:20 +0000",
@@ -97,7 +99,9 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "sparse_rainforest": "2024-12-21 07:30:03 +0000",
       "rocky_meadow": "2024-12-21 04:40:59 +0000",
+      "sparse_redwoods": "2024-12-21 07:30:02 +0000",
       "deciduous_forest": "2024-12-21 07:24:24 +0000",
       "bamboo_forest": "2024-12-21 05:07:32 +0000",
       "grassland": "2024-12-21 04:26:20 +0000",

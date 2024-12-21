@@ -15628,3 +15628,7 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [21Dec2024 07:20:08.252] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fee174de-f356-40cb-85b6-319be8e7591a
 [21Dec2024 07:20:08.252] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WK4nttz (fee174de-f356-40cb-85b6-319be8e7591a) successfully connected to voice chat
 [21Dec2024 07:29:50.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [From the Tree Tops]
+[21Dec2024 07:41:36.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WK4nttz lost connection: Disconnected
+[21Dec2024 07:41:36.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WK4nttz left the game
+[21Dec2024 07:41:36.631] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client WK4nttz
+[21Dec2024 07:41:52.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Myth_Pool: Set own game mode to Creative Mode]
