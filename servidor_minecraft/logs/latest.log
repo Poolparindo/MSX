@@ -710,3 +710,81 @@
 [21Dec2024 04:51:43.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike left the game
 [21Dec2024 04:51:43.374] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sheylike
 [21Dec2024 04:52:14.986] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/44218, l='ServerLevel[world]', x=-680.35, y=101.00, z=683.32, removed=DISCARDED]
+[21Dec2024 04:54:05.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[21Dec2024 04:55:23.014] [User Authenticator #21/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Sheylike is d382ed98-6efc-49aa-8f71-3d38ceaa4b33
+[21Dec2024 04:55:36.599] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sheylike[/172.26.179.8:60325] logged in with entity id 119391 at (-534.4875000119209, 90.0, 1161.2170389794626)
+[21Dec2024 04:55:36.675] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[21Dec2024 04:55:36.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike joined the game
+[21Dec2024 04:55:36.851] [Server thread/INFO] [Jade/]: Syncing config to Sheylike (d382ed98-6efc-49aa-8f71-3d38ceaa4b33)
+[21Dec2024 04:55:41.142] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sheylike (18)
+[21Dec2024 04:55:41.143] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sheylike
+[21Dec2024 04:55:41.143] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[21Dec2024 04:55:41.144] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[21Dec2024 04:55:41.144] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[21Dec2024 04:55:41.144] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[21Dec2024 04:55:41.144] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[21Dec2024 04:55:41.145] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[21Dec2024 04:55:41.145] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[21Dec2024 04:55:41.145] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[21Dec2024 04:55:41.145] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[21Dec2024 04:55:41.145] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[21Dec2024 04:55:41.145] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[21Dec2024 04:55:41.145] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[21Dec2024 04:55:41.145] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[21Dec2024 04:55:41.146] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[21Dec2024 04:55:41.146] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[21Dec2024 04:55:41.146] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[21Dec2024 04:55:41.146] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[21Dec2024 04:55:41.146] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/MSX/servidor_minecraft/bclib-sync (allowDelete=true)
+[21Dec2024 04:55:44.547] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98678, l='ServerLevel[world]', x=-579.93, y=82.00, z=905.93, removed=DISCARDED]
+[21Dec2024 04:55:45.020] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98681, l='ServerLevel[world]', x=-579.80, y=82.00, z=903.29, removed=DISCARDED]
+[21Dec2024 04:56:38.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sheylike lost connection: Timed out
+[21Dec2024 04:56:38.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike left the game
+[21Dec2024 04:56:38.286] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sheylike
+[21Dec2024 04:57:22.981] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98678, l='ServerLevel[world]', x=-579.93, y=82.00, z=905.93, removed=DISCARDED]
+[21Dec2024 04:57:23.326] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98681, l='ServerLevel[world]', x=-579.80, y=82.00, z=903.29, removed=DISCARDED]
+[21Dec2024 04:59:02.095] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98681, l='ServerLevel[world]', x=-579.80, y=82.00, z=903.29, removed=DISCARDED]
+[21Dec2024 04:59:02.879] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98678, l='ServerLevel[world]', x=-579.93, y=82.00, z=905.93, removed=DISCARDED]
+[21Dec2024 04:59:13.032] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98678, l='ServerLevel[world]', x=-579.93, y=82.00, z=905.93, removed=DISCARDED]
+[21Dec2024 04:59:14.677] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98681, l='ServerLevel[world]', x=-579.80, y=82.00, z=903.29, removed=DISCARDED]
+[21Dec2024 04:59:15.278] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98678, l='ServerLevel[world]', x=-579.93, y=82.00, z=905.93, removed=DISCARDED]
+[21Dec2024 04:59:18.078] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98681, l='ServerLevel[world]', x=-579.80, y=82.00, z=903.29, removed=DISCARDED]
+[21Dec2024 04:59:18.620] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98678, l='ServerLevel[world]', x=-579.93, y=82.00, z=905.93, removed=DISCARDED]
+[21Dec2024 04:59:22.926] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98681, l='ServerLevel[world]', x=-579.80, y=82.00, z=903.29, removed=DISCARDED]
+[21Dec2024 04:59:23.475] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98678, l='ServerLevel[world]', x=-579.93, y=82.00, z=905.93, removed=DISCARDED]
+[21Dec2024 04:59:31.421] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98678, l='ServerLevel[world]', x=-579.93, y=82.00, z=905.93, removed=DISCARDED]
+[21Dec2024 04:59:46.713] [User Authenticator #22/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Sheylike is d382ed98-6efc-49aa-8f71-3d38ceaa4b33
+[21Dec2024 04:59:56.118] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sheylike[/172.26.179.8:60569] logged in with entity id 121143 at (-534.4875000119209, 90.0, 1161.2170389794626)
+[21Dec2024 04:59:56.136] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[21Dec2024 04:59:56.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike joined the game
+[21Dec2024 04:59:56.216] [Server thread/INFO] [Jade/]: Syncing config to Sheylike (d382ed98-6efc-49aa-8f71-3d38ceaa4b33)
+[21Dec2024 04:59:59.928] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sheylike (18)
+[21Dec2024 04:59:59.929] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sheylike
+[21Dec2024 04:59:59.929] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[21Dec2024 04:59:59.929] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[21Dec2024 04:59:59.929] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[21Dec2024 04:59:59.929] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[21Dec2024 04:59:59.930] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[21Dec2024 04:59:59.930] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[21Dec2024 04:59:59.930] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[21Dec2024 04:59:59.930] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[21Dec2024 04:59:59.930] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[21Dec2024 04:59:59.930] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[21Dec2024 04:59:59.930] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[21Dec2024 04:59:59.930] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[21Dec2024 04:59:59.930] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[21Dec2024 04:59:59.930] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[21Dec2024 04:59:59.931] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[21Dec2024 04:59:59.931] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[21Dec2024 04:59:59.931] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[21Dec2024 04:59:59.931] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/MSX/servidor_minecraft/bclib-sync (allowDelete=true)
+[21Dec2024 05:00:39.280] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sheylike lost connection: Disconnected
+[21Dec2024 05:00:39.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike left the game
+[21Dec2024 05:00:39.282] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sheylike
+[21Dec2024 05:01:29.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WK4nttz has made the advancement [Sweet Dreams]
+[21Dec2024 05:02:06.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WK4nttz has made the advancement [Monster Hunter]
+[21Dec2024 05:02:13.869] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/44218, l='ServerLevel[world]', x=-680.35, y=101.00, z=683.32, removed=DISCARDED]
+[21Dec2024 05:02:43.422] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98681, l='ServerLevel[world]', x=-579.80, y=82.00, z=903.29, removed=DISCARDED]
+[21Dec2024 05:02:43.718] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98678, l='ServerLevel[world]', x=-579.93, y=82.00, z=905.93, removed=DISCARDED]
+[21Dec2024 05:03:35.823] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98678, l='ServerLevel[world]', x=-579.93, y=82.00, z=905.93, removed=DISCARDED]
+[21Dec2024 05:03:36.122] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/98681, l='ServerLevel[world]', x=-579.80, y=82.00, z=903.29, removed=DISCARDED]
