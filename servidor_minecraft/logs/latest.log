@@ -15632,3 +15632,20 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [21Dec2024 07:41:36.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WK4nttz left the game
 [21Dec2024 07:41:36.631] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client WK4nttz
 [21Dec2024 07:41:52.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Myth_Pool: Set own game mode to Creative Mode]
+[21Dec2024 07:47:32.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Myth_Pool: Set own game mode to Survival Mode]
+[21Dec2024 07:48:31.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Myth_Pool lost connection: Disconnected
+[21Dec2024 07:48:31.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool left the game
+[21Dec2024 07:48:31.971] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Myth_Pool
+[21Dec2024 07:48:40.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[21Dec2024 07:48:40.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Dec2024 07:48:40.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Dec2024 07:48:40.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Dec2024 07:48:41.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21Dec2024 07:48:41.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21Dec2024 07:48:41.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21Dec2024 07:48:41.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Dec2024 07:48:41.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Dec2024 07:48:41.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Dec2024 07:48:41.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Dec2024 07:48:41.240] [Server thread/INFO] [Framework/]: Unloading server configs...
+[21Dec2024 07:48:41.241] [Server thread/INFO] [Framework/]: Finished unloading server configs
