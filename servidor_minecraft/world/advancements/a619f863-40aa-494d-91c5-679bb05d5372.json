@@ -915,6 +915,12 @@
     },
     "done": true
   },
+  "spelunkery:recipes/rough_lazurite_shard": {
+    "criteria": {
+      "has_item": "2024-12-21 06:30:20 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/dinosaur_nugget": {
     "criteria": {
       "cooked_dinosaur_chop": "2024-12-21 06:04:03 +0000"
