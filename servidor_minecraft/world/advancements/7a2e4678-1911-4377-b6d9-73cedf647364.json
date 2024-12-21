@@ -1635,27 +1635,9 @@
     },
     "done": true
   },
-  "spelunkery:recipes/coal_lump": {
+  "alexsmobs:alexsmobs/kangaroo": {
     "criteria": {
-      "has_item": "2024-12-20 20:57:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/oak/oak_planks_from_stripped_oak_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2024-12-20 21:07:13 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_map": {
-    "criteria": {
-      "cave_map": "2024-12-20 22:17:32 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:guidetothenextworld": {
-    "criteria": {
-      "guidetothenextworld_0": "2024-12-20 20:57:55 +0000"
+      "interact": "2024-12-20 20:07:26 +0000"
     },
     "done": true
   },
@@ -1665,15 +1647,33 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2024-12-20 20:16:05 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/coal_lump": {
+    "criteria": {
+      "has_item": "2024-12-20 20:57:09 +0000"
+    },
+    "done": true
+  },
   "spelunkery:spelunkery/coal_lump": {
     "criteria": {
       "item": "2024-12-20 20:57:09 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_codex": {
+  "born_in_chaos_v1:guidetothenextworld": {
     "criteria": {
-      "cave_codex": "2024-12-20 22:17:05 +0000"
+      "guidetothenextworld_0": "2024-12-20 20:57:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_stripped_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-20 21:07:13 +0000"
     },
     "done": true
   },
@@ -1684,15 +1684,15 @@
     },
     "done": false
   },
-  "mowziesmobs:kill_umvuthi": {
+  "alexscaves:alexscaves/cave_codex": {
     "criteria": {
-      "barako": "2024-12-20 20:16:05 +0000"
+      "cave_codex": "2024-12-20 22:17:05 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/kangaroo": {
+  "alexscaves:alexscaves/cave_map": {
     "criteria": {
-      "interact": "2024-12-20 20:07:26 +0000"
+      "cave_map": "2024-12-20 22:17:32 +0000"
     },
     "done": true
   },

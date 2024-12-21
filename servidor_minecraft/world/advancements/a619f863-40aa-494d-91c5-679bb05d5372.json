@@ -878,5 +878,17 @@
     },
     "done": true
   },
+  "spelunkery:recipes/obsidian": {
+    "criteria": {
+      "has_item": "2024-12-20 23:57:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-20 23:57:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
