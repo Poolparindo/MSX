@@ -391,6 +391,24 @@
     },
     "done": true
   },
+  "spelunkery:spelunkery/raw_nuggets": {
+    "criteria": {
+      "item": "2024-12-21 06:13:04 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rough_lazurite_shard": {
+    "criteria": {
+      "has_item": "2024-12-21 06:10:44 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/coal_lump": {
+    "criteria": {
+      "has_item": "2024-12-21 06:13:31 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/dinosaur_nugget": {
     "criteria": {
       "cooked_dinosaur_chop": "2024-12-21 06:00:22 +0000"
@@ -403,6 +421,18 @@
     },
     "done": true
   },
+  "spelunkery:spelunkery/rough_gem": {
+    "criteria": {
+      "item": "2024-12-21 06:10:17 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/raw_copper_nugget": {
+    "criteria": {
+      "has_item": "2024-12-21 06:13:55 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_primordial_caves": {
     "criteria": {
       "discover": "2024-12-21 05:51:39 +0000"
@@ -412,6 +442,24 @@
   "spelunkery:recipes/charcoal": {
     "criteria": {
       "has_item": "2024-12-21 06:00:37 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/raw_gold": {
+    "criteria": {
+      "has_item": "2024-12-21 06:10:39 +0000"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2024-12-21 06:07:56 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/coal_lump": {
+    "criteria": {
+      "item": "2024-12-21 06:13:31 +0000"
     },
     "done": true
   },
@@ -433,9 +481,39 @@
     },
     "done": true
   },
+  "spelunkery:recipes/raw_iron_nugget": {
+    "criteria": {
+      "has_item": "2024-12-21 06:13:04 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rough_cinnabar": {
+    "criteria": {
+      "has_item": "2024-12-21 06:13:55 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rough_cinnabar_shard": {
+    "criteria": {
+      "has_item": "2024-12-21 06:14:14 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rough_lazurite": {
+    "criteria": {
+      "has_item": "2024-12-21 06:10:17 +0000"
+    },
+    "done": true
+  },
   "oreganized:story/like_the_romans": {
     "criteria": {
       "has_brain_damage": "2024-12-21 05:51:10 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_grottoceratops": "2024-12-21 06:05:39 +0000"
     },
     "done": true
   },
