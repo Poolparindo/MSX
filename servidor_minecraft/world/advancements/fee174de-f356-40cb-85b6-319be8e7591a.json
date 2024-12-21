@@ -1,4 +1,10 @@
 {
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-12-21 04:23:51 +0000"
+    },
+    "done": true
+  },
   "idas:idas_root": {
     "criteria": {
       "always": "2024-12-21 04:03:26 +0000"
@@ -17,9 +23,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_pressure_plate_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-21 04:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/chest_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-21 04:27:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-21 04:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_button_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-21 04:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_sign_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-21 04:27:22 +0000"
     },
     "done": true
   },
@@ -35,9 +65,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-21 04:27:22 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/raw_copper": {
+    "criteria": {
+      "has_item": "2024-12-21 04:24:30 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2024-12-21 04:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_trapdoor_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-21 04:27:22 +0000"
     },
     "done": true
   },
@@ -47,9 +95,39 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-21 04:26:09 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2024-12-21 04:03:26 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2024-12-21 04:24:09 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2024-12-21 04:23:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/woodcutting/oak/oak_door_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-21 04:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/barrel_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-21 04:27:22 +0000"
     },
     "done": true
   },
@@ -59,14 +137,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-21 04:27:22 +0000"
+    },
+    "done": true
+  },
   "betterend:root": {
     "criteria": {
       "welcome": "2024-12-21 04:03:27 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_stairs_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-21 04:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_fence_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-21 04:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_chest_boat_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-21 04:27:22 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "grassland": "2024-12-21 04:26:20 +0000",
       "prairie": "2024-12-21 04:05:31 +0000"
     },
     "done": false
@@ -83,8 +186,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-21 04:27:22 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/stick": {
+    "criteria": {
+      "has_item": "2024-12-21 04:25:36 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/experience_rotor": {
+    "criteria": {
+      "has_item": "2024-12-21 04:24:09 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "grassland": "2024-12-21 04:26:20 +0000",
       "prairie": "2024-12-21 04:05:31 +0000"
     },
     "done": false
@@ -92,6 +214,12 @@
   "idas:castle": {
     "criteria": {
       "in_castle": "2024-12-21 04:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_boat_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-21 04:27:22 +0000"
     },
     "done": true
   },
@@ -104,6 +232,18 @@
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "flint_knife": "2024-12-21 04:05:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "baked_potato": "2024-12-21 04:26:09 +0000"
+    },
+    "done": false
+  },
+  "spelunkery:recipes/flint": {
+    "criteria": {
+      "has_item": "2024-12-21 04:25:28 +0000"
     },
     "done": true
   },
