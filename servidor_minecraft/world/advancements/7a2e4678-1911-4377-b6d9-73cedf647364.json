@@ -1712,6 +1712,24 @@
     },
     "done": false
   },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2024-12-21 05:52:55 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2024-12-21 05:53:13 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tame_elephant": {
+    "criteria": {
+      "tame": "2024-12-21 05:48:33 +0000"
+    },
+    "done": true
+  },
   "idas:wizardtower": {
     "criteria": {
       "in_wizardtower": "2024-12-21 01:57:33 +0000"

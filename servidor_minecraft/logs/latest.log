@@ -925,3 +925,52 @@
 [21Dec2024 05:44:26.207] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=113, y=62, z=1036} BlockPos{x=113, y=61, z=1038}
 [21Dec2024 05:44:26.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=113, y=62, z=1036} BlockPos{x=113, y=61, z=1038}
 [21Dec2024 05:44:26.306] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=113, y=62, z=1036} BlockPos{x=113, y=61, z=1038}
+[21Dec2024 05:47:41.581] [pool-14-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / idas:castle], ResourceKey[minecraft:worldgen/structure / idas:beekeepers_house], ResourceKey[minecraft:worldgen/structure / integrated_villages:pirate_village], ResourceKey[minecraft:worldgen/structure / integrated_villages:kutcha_village], ResourceKey[minecraft:worldgen/structure / integrated_villages:mossy_mounds], ResourceKey[minecraft:worldgen/structure / integrated_villages:oasis_village], ResourceKey[minecraft:worldgen/structure / idas:fishermans_lodge], ResourceKey[minecraft:worldgen/structure / integrated_villages:cabin_village]] from pos BlockPos{x=613, y=107, z=939}
+[21Dec2024 05:47:48.334] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2389ms or 47 ticks behind
+[21Dec2024 05:48:33.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [Stampy!]
+[21Dec2024 05:49:30.900] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WK4nttz lost connection: Disconnected
+[21Dec2024 05:49:30.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WK4nttz left the game
+[21Dec2024 05:49:30.903] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client WK4nttz
+[21Dec2024 05:49:41.507] [User Authenticator #26/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player WK4nttz is fee174de-f356-40cb-85b6-319be8e7591a
+[21Dec2024 05:49:51.076] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WK4nttz[/172.26.58.190:57028] logged in with entity id 139618 at (781.4756186704634, 78.0, 1036.0263154369848)
+[21Dec2024 05:49:51.193] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[21Dec2024 05:49:51.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WK4nttz joined the game
+[21Dec2024 05:49:51.486] [Server thread/INFO] [Jade/]: Syncing config to WK4nttz (fee174de-f356-40cb-85b6-319be8e7591a)
+[21Dec2024 05:49:52.943] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of WK4nttz (18)
+[21Dec2024 05:49:52.945] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to WK4nttz
+[21Dec2024 05:49:52.947] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[21Dec2024 05:49:52.948] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[21Dec2024 05:49:52.949] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[21Dec2024 05:49:52.949] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[21Dec2024 05:49:52.949] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[21Dec2024 05:49:52.950] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[21Dec2024 05:49:52.950] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[21Dec2024 05:49:52.950] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[21Dec2024 05:49:52.951] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[21Dec2024 05:49:52.951] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[21Dec2024 05:49:52.951] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[21Dec2024 05:49:52.951] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[21Dec2024 05:49:52.952] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[21Dec2024 05:49:52.952] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[21Dec2024 05:49:52.952] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[21Dec2024 05:49:52.953] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[21Dec2024 05:49:52.953] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[21Dec2024 05:49:52.953] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/MSX/servidor_minecraft/bclib-sync (allowDelete=true)
+[21Dec2024 05:50:10.628] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fee174de-f356-40cb-85b6-319be8e7591a
+[21Dec2024 05:50:11.626] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fee174de-f356-40cb-85b6-319be8e7591a
+[21Dec2024 05:50:11.627] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player WK4nttz (fee174de-f356-40cb-85b6-319be8e7591a) successfully connected to voice chat
+[21Dec2024 05:51:01.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has made the advancement [Town of Bedrock]
+[21Dec2024 05:51:02.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ has reached the goal [The Cave That Time Forgot]
+[21Dec2024 05:51:09.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WK4nttz has made the advancement [Well... That leads to dust]
+[21Dec2024 05:51:10.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WK4nttz has made the advancement [Like the Romans]
+[21Dec2024 05:51:10.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike has made the advancement [Like the Romans]
+[21Dec2024 05:51:24.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike has reached the goal [The Cave That Time Forgot]
+[21Dec2024 05:51:39.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WK4nttz has reached the goal [The Cave That Time Forgot]
+[21Dec2024 05:51:46.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WK4nttz has made the advancement [Town of Bedrock]
+[21Dec2024 05:52:49.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike has made the advancement [Town of Bedrock]
+[21Dec2024 05:52:55.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has reached the goal [The Cave That Time Forgot]
+[21Dec2024 05:53:13.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [Town of Bedrock]
+[21Dec2024 05:53:16.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WK4nttz has made the advancement [Getting an Upgrade]
+[21Dec2024 05:53:58.996] [pool-14-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / integrated_villages:quark/minka_village], ResourceKey[minecraft:worldgen/structure / idas:treetop_tavern], ResourceKey[minecraft:worldgen/structure / idas:bearclaw_inn], ResourceKey[minecraft:worldgen/structure / integrated_villages:airship_village], ResourceKey[minecraft:worldgen/structure / integrated_villages:kutcha_village], ResourceKey[minecraft:worldgen/structure / idas:castle], ResourceKey[minecraft:worldgen/structure / idas:bazaar], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_orange]] from pos BlockPos{x=741, y=82, z=1243}
+[21Dec2024 05:54:01.781] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=741, y=82, z=1243} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[21Dec2024 05:54:01.781] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=741, y=82, z=1243}
