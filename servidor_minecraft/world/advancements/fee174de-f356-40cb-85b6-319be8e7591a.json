@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-21 04:40:31 +0000"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
       "opened_chest": "2024-12-21 04:23:51 +0000"
@@ -169,6 +175,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "rocky_meadow": "2024-12-21 04:40:59 +0000",
       "grassland": "2024-12-21 04:26:20 +0000",
       "prairie": "2024-12-21 04:05:31 +0000"
     },
@@ -206,6 +213,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "rocky_meadow": "2024-12-21 04:40:59 +0000",
       "grassland": "2024-12-21 04:26:20 +0000",
       "prairie": "2024-12-21 04:05:31 +0000"
     },
@@ -214,6 +222,18 @@
   "idas:castle": {
     "criteria": {
       "in_castle": "2024-12-21 04:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-21 04:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/stripped_oak_log_from_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-21 04:40:31 +0000"
     },
     "done": true
   },
@@ -237,7 +257,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "baked_potato": "2024-12-21 04:26:09 +0000"
+      "baked_potato": "2024-12-21 04:26:09 +0000",
+      "cooked_mutton": "2024-12-21 04:47:51 +0000"
     },
     "done": false
   },
