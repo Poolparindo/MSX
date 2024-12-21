@@ -1712,6 +1712,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/tame_subterranodon": {
+    "criteria": {
+      "killed": "2024-12-21 06:45:14 +0000"
+    },
+    "done": true
+  },
   "betterarcheology:all_fossils_found": {
     "criteria": {
       "betterarcheology:villager_fossil_head": "2024-12-21 01:14:03 +0000"
@@ -1721,6 +1727,12 @@
   "alexscaves:alexscaves/dinosaur_nugget": {
     "criteria": {
       "cooked_dinosaur_chop": "2024-12-21 06:00:36 +0000"
+    },
+    "done": true
+  },
+  "quark:get_diamond_heart": {
+    "criteria": {
+      "get_diamond_heart": "2024-12-21 06:42:25 +0000"
     },
     "done": true
   },

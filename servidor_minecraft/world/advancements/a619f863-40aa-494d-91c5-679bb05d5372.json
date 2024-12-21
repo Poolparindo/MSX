@@ -109,6 +109,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-20 04:59:41 +0000",
+      "cooked_beef": "2024-12-21 06:42:46 +0000",
       "beef": "2024-12-15 09:01:25 +0000",
       "baked_potato": "2024-12-20 06:17:09 +0000",
       "porkchop": "2024-12-15 09:01:20 +0000",
@@ -960,6 +961,12 @@
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2024-12-21 06:07:18 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rough_lazurite": {
+    "criteria": {
+      "has_item": "2024-12-21 06:36:29 +0000"
     },
     "done": true
   },
