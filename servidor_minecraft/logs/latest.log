@@ -1006,3 +1006,15 @@
 [21Dec2024 06:13:04.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WK4nttz has reached the goal [Triple-nugget Surprise]
 [21Dec2024 06:13:18.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sheylike has made the advancement [Well... That leads to dust]
 [21Dec2024 06:13:31.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WK4nttz has made the advancement [Someone's been Naughty]
+[21Dec2024 06:16:22.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WK4nttz has reached the goal [Arachnophobe's Nightmare]
+[21Dec2024 06:17:57.086] [pool-14-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / integrated_villages:cabin_village], ResourceKey[minecraft:worldgen/structure / integrated_villages:mediterranean_village], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_orange], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market], ResourceKey[minecraft:worldgen/structure / idas:bearclaw_inn], ResourceKey[minecraft:worldgen/structure / integrated_villages:pirate_village], ResourceKey[minecraft:worldgen/structure / integrated_villages:airship_village], ResourceKey[minecraft:worldgen/structure / idas:fishermans_lodge]] from pos BlockPos{x=1051, y=95, z=917}
+[21Dec2024 06:19:30.595] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21Dec2024 06:19:48.733] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3139ms or 62 ticks behind
+[21Dec2024 06:20:07.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3730ms or 74 ticks behind
+[21Dec2024 06:20:27.928] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5533ms or 110 ticks behind
+[21Dec2024 06:20:47.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4233ms or 84 ticks behind
+[21Dec2024 06:21:05.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[21Dec2024 06:21:29.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21Dec2024 06:22:19.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WK4nttz has made the advancement [Everywhere you Glow]
+[21Dec2024 06:22:32.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Myth_Pool has made the advancement [Re-Extinct]
+[21Dec2024 06:23:32.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WK4nttz has made the advancement [Take Aim]

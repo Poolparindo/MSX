@@ -397,6 +397,18 @@
     },
     "done": true
   },
+  "spelunkery:spelunkery/glowstick": {
+    "criteria": {
+      "item": "2024-12-21 06:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-21 06:23:32 +0000"
+    },
+    "done": true
+  },
   "spelunkery:recipes/rough_lazurite_shard": {
     "criteria": {
       "has_item": "2024-12-21 06:10:44 +0000"
@@ -406,6 +418,12 @@
   "spelunkery:recipes/coal_lump": {
     "criteria": {
       "has_item": "2024-12-21 06:13:31 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:arachnophobes_nightmare": {
+    "criteria": {
+      "arachnophobes_nightmare_0": "2024-12-21 06:16:22 +0000"
     },
     "done": true
   },
@@ -436,6 +454,12 @@
   "alexscaves:alexscaves/discover_primordial_caves": {
     "criteria": {
       "discover": "2024-12-21 05:51:39 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/glowstick": {
+    "criteria": {
+      "has_item": "2024-12-21 06:22:19 +0000"
     },
     "done": true
   },
@@ -496,6 +520,12 @@
   "spelunkery:recipes/rough_cinnabar_shard": {
     "criteria": {
       "has_item": "2024-12-21 06:14:14 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rough_diamond_shard": {
+    "criteria": {
+      "has_item": "2024-12-21 06:15:49 +0000"
     },
     "done": true
   },

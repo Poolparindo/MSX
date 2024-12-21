@@ -82,6 +82,7 @@
       "minecraft:sparse_jungle": "2024-12-18 06:03:00 +0000",
       "minecraft:river": "2024-12-18 05:22:10 +0000",
       "minecraft:lukewarm_ocean": "2024-12-18 08:40:50 +0000",
+      "minecraft:dripstone_caves": "2024-12-21 06:24:52 +0000",
       "minecraft:forest": "2024-12-18 08:17:21 +0000",
       "minecraft:desert": "2024-12-18 08:18:47 +0000",
       "minecraft:savanna": "2024-12-18 05:10:47 +0000",
@@ -730,6 +731,12 @@
   "oreganized:story/lead_to_dust": {
     "criteria": {
       "in_lead_cloud": "2024-12-21 06:13:18 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/raw_magnetite_nugget": {
+    "criteria": {
+      "has_item": "2024-12-21 06:17:12 +0000"
     },
     "done": true
   },
