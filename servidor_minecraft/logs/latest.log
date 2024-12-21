@@ -89,3 +89,38 @@
 [21Dec2024 00:44:00.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego505_ lost connection: Disconnected
 [21Dec2024 00:44:00.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ left the game
 [21Dec2024 00:44:00.374] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Diego505_
+[21Dec2024 00:50:47.780] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Diego505_ is a619f863-40aa-494d-91c5-679bb05d5372
+[21Dec2024 00:50:57.178] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Diego505_[/172.26.198.206:54696] logged in with entity id 22888 at (-580.7839005794887, 90.0, 879.6999999880791)
+[21Dec2024 00:50:57.311] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[21Dec2024 00:50:57.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ joined the game
+[21Dec2024 00:50:57.612] [Server thread/INFO] [Jade/]: Syncing config to Diego505_ (a619f863-40aa-494d-91c5-679bb05d5372)
+[21Dec2024 00:51:00.483] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Diego505_ (18)
+[21Dec2024 00:51:00.485] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Diego505_
+[21Dec2024 00:51:00.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[21Dec2024 00:51:00.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[21Dec2024 00:51:00.486] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[21Dec2024 00:51:00.486] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[21Dec2024 00:51:00.487] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[21Dec2024 00:51:00.487] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[21Dec2024 00:51:00.487] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[21Dec2024 00:51:00.487] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[21Dec2024 00:51:00.487] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[21Dec2024 00:51:00.487] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[21Dec2024 00:51:00.488] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[21Dec2024 00:51:00.488] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[21Dec2024 00:51:00.488] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[21Dec2024 00:51:00.488] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[21Dec2024 00:51:00.488] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[21Dec2024 00:51:00.488] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[21Dec2024 00:51:00.488] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[21Dec2024 00:51:00.489] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/MSX/servidor_minecraft/bclib-sync (allowDelete=true)
+[21Dec2024 00:51:13.657] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a619f863-40aa-494d-91c5-679bb05d5372
+[21Dec2024 00:51:14.658] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a619f863-40aa-494d-91c5-679bb05d5372
+[21Dec2024 00:51:14.658] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Diego505_ (a619f863-40aa-494d-91c5-679bb05d5372) successfully connected to voice chat
+[21Dec2024 00:51:37.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Diego505_> ola
+[21Dec2024 00:51:40.442] [Server thread/WARN] [net.minecraft.network.chat.SignedMessageChain/]: Received expired chat: 'ola'. Is the client/server system time unsynchronized?
+[21Dec2024 00:51:40.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Myth_Pool> ola
+[21Dec2024 00:51:46.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Diego505_> me extrañaste?
+[21Dec2024 00:52:00.680] [Server thread/WARN] [net.minecraft.network.chat.SignedMessageChain/]: Received expired chat: 'chi'. Is the client/server system time unsynchronized?
+[21Dec2024 00:52:00.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Myth_Pool> chi
+[21Dec2024 00:52:07.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Diego505_> z
