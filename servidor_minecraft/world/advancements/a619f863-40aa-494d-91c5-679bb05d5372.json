@@ -916,6 +916,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/tame_subterranodon": {
+    "criteria": {
+      "killed": "2024-12-21 06:48:29 +0000"
+    },
+    "done": true
+  },
   "spelunkery:recipes/rough_lazurite_shard": {
     "criteria": {
       "has_item": "2024-12-21 06:30:20 +0000"

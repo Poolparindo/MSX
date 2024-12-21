@@ -1,16 +1,16 @@
-[23:47:13] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[23:47:13] [INIT] Loaded plugins:
-[23:47:13] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[23:47:13] [INIT] - net.mehvahdjukaar.sawmill.integration.KubeJsPlugin
-[23:47:13] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[23:47:13] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[23:47:13] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbfiltersystem.kubejs.FFSKubeJSPlugin
-[23:47:13] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
-[23:47:13] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[23:47:13] [INIT] - com.almostreliable.morejs.Plugin
-[23:47:13] [INIT] - qinomed.kubejsdelight.KubeJSDelightPlugin
-[23:47:13] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
-[23:47:14] [INFO] Loaded script startup_scripts:brewing.js in 0.084 s
-[23:47:14] [INFO] Loaded script startup_scripts:item_modifications.js in 0.049 s
-[23:47:14] [INFO] Loaded 2/2 KubeJS startup scripts in 0.718 s with 0 errors and 0 warnings
-[23:47:30] [INFO] brewing.js#2: Removed potion brewing recipe: apotheosis:levitation + {"item":"minecraft:popped_chorus_fruit"} -> apotheosis:flying
+[06:52:02] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[06:52:02] [INIT] Loaded plugins:
+[06:52:02] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[06:52:02] [INIT] - net.mehvahdjukaar.sawmill.integration.KubeJsPlugin
+[06:52:02] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[06:52:02] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[06:52:02] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[06:52:02] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
+[06:52:02] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[06:52:02] [INIT] - com.almostreliable.morejs.Plugin
+[06:52:02] [INIT] - qinomed.kubejsdelight.KubeJSDelightPlugin
+[06:52:02] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
+[06:52:03] [INFO] Loaded script startup_scripts:brewing.js in 0.102 s
+[06:52:03] [INFO] Loaded script startup_scripts:item_modifications.js in 0.025 s
+[06:52:03] [INFO] Loaded 2/2 KubeJS startup scripts in 0.707 s with 0 errors and 0 warnings
+[06:52:15] [INFO] brewing.js#2: Removed potion brewing recipe: apotheosis:levitation + {"item":"minecraft:popped_chorus_fruit"} -> apotheosis:flying
