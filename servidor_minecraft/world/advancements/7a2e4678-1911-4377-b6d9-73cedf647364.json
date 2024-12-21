@@ -1772,5 +1772,11 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/primordial_armor": {
+    "criteria": {
+      "pants": "2024-12-21 07:23:18 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
