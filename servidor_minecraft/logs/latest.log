@@ -256,3 +256,31 @@
 [21Dec2024 02:31:16.112] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/32891, l='ServerLevel[world]', x=-1004.54, y=83.00, z=1322.49, removed=DISCARDED]
 [21Dec2024 02:31:54.712] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Animal Fat'/33473, l='ServerLevel[world]', x=-912.12, y=75.00, z=1188.11, removed=DISCARDED]
 [21Dec2024 02:58:11.810] [Server thread/ERROR] [net.mehvahdjukaar.smarterfarmers.SmarterFarmers/]: Failed to plant seed at BlockPos{x=-577, y=80, z=858} from item 0 air and block wheat_seeds: 
+[21Dec2024 03:16:15.962] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Diego505_ is a619f863-40aa-494d-91c5-679bb05d5372
+[21Dec2024 03:16:25.250] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Diego505_[/172.26.198.206:62798] logged in with entity id 87672 at (-584.3917226792943, 96.0, 873.6527954849831)
+[21Dec2024 03:16:25.353] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[21Dec2024 03:16:25.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego505_ joined the game
+[21Dec2024 03:16:25.643] [Server thread/INFO] [Jade/]: Syncing config to Diego505_ (a619f863-40aa-494d-91c5-679bb05d5372)
+[21Dec2024 03:16:27.521] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Diego505_ (18)
+[21Dec2024 03:16:27.521] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Diego505_
+[21Dec2024 03:16:27.522] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[21Dec2024 03:16:27.522] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[21Dec2024 03:16:27.522] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[21Dec2024 03:16:27.523] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[21Dec2024 03:16:27.523] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[21Dec2024 03:16:27.524] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[21Dec2024 03:16:27.524] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[21Dec2024 03:16:27.524] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[21Dec2024 03:16:27.524] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[21Dec2024 03:16:27.524] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[21Dec2024 03:16:27.525] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[21Dec2024 03:16:27.525] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[21Dec2024 03:16:27.525] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[21Dec2024 03:16:27.525] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[21Dec2024 03:16:27.525] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[21Dec2024 03:16:27.525] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[21Dec2024 03:16:27.525] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[21Dec2024 03:16:27.525] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/MSX/servidor_minecraft/bclib-sync (allowDelete=true)
+[21Dec2024 03:16:40.832] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a619f863-40aa-494d-91c5-679bb05d5372
+[21Dec2024 03:16:41.835] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a619f863-40aa-494d-91c5-679bb05d5372
+[21Dec2024 03:16:41.835] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Diego505_ (a619f863-40aa-494d-91c5-679bb05d5372) successfully connected to voice chat
